@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hello, It's Abhijeet here 👋
+Resides in India, graduated as Computer Engineer :computer:. I like to contribute for an open source project. I have enough knowlegde of Laravel, PHP, MySQL, basically everything required for web development. I joined this IT industry in 2013.
+
+I am currently working as Software Developer with [BDO India LLP](https://www.bdo.in/en-gb/home). It is a tax firm.
+Our responsibility is to maintain and add features to firms in house tax applications.
+
 
 <!--
 **abhijeet9920/abhijeet9920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
